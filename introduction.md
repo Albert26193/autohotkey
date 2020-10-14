@@ -10,7 +10,8 @@
 
 ## 安装教程
 
-​	官网下载autohotkey，将原有的replace_hotkey.ahk进行编译即可。
+​	官网 https://www.autohotkey.com/ 
+  下载autohotkey，将原有的replace_hotkey.ahk进行编译即可。
 
 ​	autohotkey.ahk的打开方式可以选择VScode进行编辑。
 
